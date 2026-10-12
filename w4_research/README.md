@@ -23,8 +23,13 @@ Align these labels with the actual weekly Evidence Register IDs if the template 
 
 ## Original evidence
 
-The audio, complete interview text and identifiable consent records belong in restricted university OneDrive or SharePoint storage. Add their actual authorised-supervisor URLs to the pilot notes after uploading and testing access. Recording consent is not public-distribution consent.
+[Pilot interview audio — P-pilot-01](./%E8%AE%BE%E5%A4%87%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%87%E8%AE%BF.m4a)
+
+The original recording is uploaded in this public GitHub folder. On 12 October 2026, the team confirmed that the participant explicitly consented to public release of this audio. This is separate from participation and recording consent.
+
+The full interview text, contact details and identifiable consent records are not published here. Restrict those records and retain the actual release-consent documentation privately. The audio documents one pilot, not validated market demand.
 
 ## Before main collection
 
-Confirm the research contact and retention/withdrawal terms, test the original-evidence links, cross-check text/audio alignment and obtain the supervisor's W5 threshold. Discuss whether a short re-pilot of the revised questions is needed. These actions are not reported as already completed.
+Confirm the research contact and retention/withdrawal terms, check the published audio link and restricted-text access, cross-check text/audio alignment and obtain the supervisor's W5 threshold. Discuss whether a short re-pilot of the revised questions is needed. These actions are not reported as already completed.
+

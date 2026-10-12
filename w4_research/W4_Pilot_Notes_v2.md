@@ -16,9 +16,11 @@ The supplied audio file lasts 690.923 seconds, approximately 11 minutes 31 secon
 
 ## Consent and access
 
-The team confirms participation and recording consent. The interview text also records consent to anonymous quotations in the course report and follow-up contact, with a later interview requiring another decision. It does not expressly authorise public distribution of the audio or full interview text.
+The team confirms participation and recording consent. The interview text records anonymous course-report quotation and follow-up consent, with a further interview requiring another decision. On 12 October 2026, the team separately confirmed that the participant explicitly agreed to public release of this recording in GitHub. That release does not extend to full interview text, contact details or identifiable consent records.
 
-Use restricted university OneDrive or SharePoint access for the original audio, corrected full text and consent details. A supervisor-accessible recording URL has not yet been supplied. The research contact, retention terms and withdrawal procedure require confirmation and any necessary dated clarification to the participant. These public notes contain no direct participant quotations or identifying contact/location details.
+[Original pilot recording — P-pilot-01](./%E8%AE%BE%E5%A4%87%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%87%E8%AE%BF.m4a)
+
+The audio is published at this link with public-release consent confirmed by the team. Keep corrected full text, contacts and identifiable consent records restricted and retain the actual release-consent record privately. Contact, retention terms and withdrawal procedure still require confirmation and any dated clarification needed for the participant. Public copies may already have been downloaded; removing the repository copy cannot guarantee deletion of third-party copies. These notes contain no direct quotations or identifying contact/location details.
 
 ## Findings relevant to the research questions
 
@@ -58,9 +60,10 @@ Keep manual confirmation and understandable care advice as hypotheses worth test
 
 One student pilot does not validate working-adult or office demand, paid conversion, technical performance or market share. Continue the proposed 8–12-person exploratory round with explicit setting and tool-use coverage, subject to the supervisor's W5 evidence threshold. Do not claim that the W3 eight-person named-competitor comparison has been completed.
 
-## Open evidence-access fields
+## Evidence access and remaining fields
 
-- Restricted recording URL: awaiting upload and recipient-access testing.
+- Public recording URL: [Pilot audio — P-pilot-01](./%E8%AE%BE%E5%A4%87%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%87%87%E8%AE%BF.m4a).
 - Restricted corrected transcript URL: awaiting upload.
 - Research contact and data retention/withdrawal terms: awaiting confirmation.
 - Supervisor W5 evidence threshold: awaiting an actual supervisor decision.
+
